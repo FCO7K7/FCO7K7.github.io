@@ -353,7 +353,6 @@ background-color:  #0f0d05;
     }
     .nav-menu ul{
         display: flex;
-        align-items: safe;
         justify-content: center;
         flex-direction: column;
         margin-top: 0px;
