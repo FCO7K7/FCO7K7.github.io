@@ -382,7 +382,10 @@ background-color:  #0f0d05;
         background-color: rgba(0, 0, 0, 0.5);
     }
 
-
+    .inicio{
+        width: 73vh;
+        height: 150vh;
+    }
     .logotexto{
         font-size: 50px;
     }
