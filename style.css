@@ -339,6 +339,11 @@ background-color:  #0f0d05;
     /* .nav-menu{
         width:80%;
     } */
+    header{
+        width: 100px;
+        
+
+    }
     .nav-menu{
         position: fixed;
         top: 0;
@@ -382,12 +387,8 @@ background-color:  #0f0d05;
     }
 
     .inicio{
-        height: 100vh;
-        width: auto;
-        background-image: url(290983241_549868860174063_7965314176680023828_n.jpg);
-        background-size: cover;
-        background-attachment: fixed;
-        background-position: center;
+        height: 150vh;
+        width: 73vh;
     }
     .logotexto{
         font-size: 50px;
