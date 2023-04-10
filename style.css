@@ -383,9 +383,12 @@ background-color:  #0f0d05;
     }
 
     .inicio{
+        height: 100vh;
+        width: auto;
         background-image: url(290983241_549868860174063_7965314176680023828_n.jpg);
-        width: 73vh;
-        height: 150vh;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
     }
     .logotexto{
         font-size: 50px;
