@@ -383,8 +383,8 @@ background-color:  #0f0d05;
     }
 
     .inicio{
-        width: 50vh;
-        height: 150vh;
+        width: auto;
+        height: auto;
     }
     .logotexto{
         font-size: 50px;
