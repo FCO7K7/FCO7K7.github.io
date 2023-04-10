@@ -1,7 +1,7 @@
 
 // funcion para que la nav bar aparezca cuando sea mayor que cero y quede permanente//
 window.addEventListener("scroll",function(){
-    var header = document.querySelector("header");
+    var header = document.querySelector(".header");
     header.classList.toggle("abajo",window.scrollY>0);
 })
 
